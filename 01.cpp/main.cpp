@@ -6,7 +6,7 @@ using namespace std;
  int main ()
 {
      int row,space,i,j;
-     cout<<"select the row"<<endl;
+     cout<<"Type the row"<<endl;
      cin>>row;
      
      for(i=row;i>=1;i--)
